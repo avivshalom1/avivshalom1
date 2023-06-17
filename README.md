@@ -4,18 +4,20 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Aviv.<br>
-        I'm an avid learner and believe in continuously expanding my knowledge and          skills. <br>
-        Currently, I'm focusing on improving my proficiency in Python and   
-        SQL. <br>
-      I'm actively participating in coding challenges to enhance my problem-solving abilities. <br>
+        I'm an avid learner and believe in continuously expanding my knowledge and skills. <br>
+        Currently, I'm focusing on improving my proficiency in Python and SQL. <br>
+        I'm actively participating in coding challenges to enhance my problem-solving abilities. <br>
     </i><br>
-  
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aviv-shalom-a7b515169/)
+
+  <a href="https://www.linkedin.com/in/aviv-shalom-a7b515169/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
 </p>
 
-### Collaboration
 
-While my primary focus is on C/C++, I'm open to exploring new programming languages and technologies. I believe that working with diverse programming languages not only broadens my skill set but also fosters creativity and adaptability in solving complex problems. I'm eager to collaborate with a team of talented developers on exciting projects that span multiple programming languages.
+
+### Collaboration
+While my primary focus is on C/C++, I'm open to exploring new programming languages and technologies. I believe that working with diverse programming languages not only broadens my skill set but also fosters creativity and adaptability in solving complex problems.
   
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad)
@@ -26,5 +28,3 @@ While my primary focus is on C/C++, I'm open to exploring new programming langua
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
-
-</details>
