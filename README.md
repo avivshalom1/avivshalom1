@@ -20,7 +20,7 @@
 While my primary focus is on C#/C++, I'm open to exploring new programming languages and technologies. I believe that working with diverse technologies not only broadens my skill set but also fosters creativity and adaptability in solving complex problems.
   
 ### Languages
-![C#](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=csharp)
+![C#](https://img.shields.io/badge/c#-black?style=for-the-badge&logo=csharp)
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
