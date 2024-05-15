@@ -17,7 +17,7 @@
 
 
 ### Collaboration
-While my primary focus is on C#/C++, I'm open to exploring new programming languages and technologies. I believe that working with diverse programming languages not only broadens my skill set but also fosters creativity and adaptability in solving complex problems.
+While my primary focus is on C#/C++, I'm open to exploring new programming languages and technologies. I believe that working with diverse technologies not only broadens my skill set but also fosters creativity and adaptability in solving complex problems.
   
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad)
